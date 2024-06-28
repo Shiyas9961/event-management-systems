@@ -36,7 +36,7 @@ A simple event management system built with Django Rest Framework (backend) and 
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/Shiyas9961/event-management-system.git
+   git clone https://github.com/Shiyas9961/event-management-systems.git
    cd event-management-systems/fronten-event
    npm install
    npm start
